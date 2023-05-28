@@ -1,0 +1,5 @@
+[ {"name": "李某","gender": "男","birth": "2002/07/24","student_number": "12110201","grade": "计算机科学与技术一班","collage": "信息工程","phone":"155"},
+  {"name": "王某","gender": "女","birth": "2001/08/23","student_number": "12110202","grade": "计算机科学与技术二班","collage": "信息工程","phone":"132"},
+  {"name": "张某","gender": "女","birth": "2000/09/22","student_number": "12110203","grade": "计算机科学与技术三班","collage": "信息工程","phone":"199"}
+
+]
